@@ -99,7 +99,7 @@ button:hover{
     color:  hsl(300, 69%, 71%);
     border: 1px solid  hsl(300, 69%, 71%);
 }
- @media screen and (max-width : 786px){
+ @media screen and (max-width : 375px){
     body{
         display: flex;
         flex-direction: column;
