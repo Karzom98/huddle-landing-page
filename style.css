@@ -27,10 +27,10 @@ main{
 }
 .illustrations{
     background-image: url('/images/illustration-mockups.svg');
-    
     background-repeat: no-repeat;
     width:709px;
     height: 500px;
+    background-size: contain;
     margin-left:20px ;
 }
 .body{
