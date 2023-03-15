@@ -136,3 +136,14 @@ button:hover{
  }
 
 }
+@media screen and (max-width : 400px){
+    .illustrations{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       height: 200px;
+       width: 200px;
+       background-size: contain;
+       padding-left: 30px;
+     }
+}
